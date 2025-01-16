@@ -1,0 +1,24 @@
+{
+  "name": "cocktail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabrizioRotaru/Terranova-EliteCoders.git"
+  },
+  "author": "Samuel Panetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabrizioRotaru/Terranova-EliteCoders/issues"
+  },
+  "homepage": "https://github.com/FabrizioRotaru/Terranova-EliteCoders#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "git": "^0.1.5",
+    "sqlite3": "^5.1.7"
+  }
+}
